@@ -71,30 +71,6 @@
 			<key>type</key>
 			<integer>1</integer>
 		</dict>
-		<dict>
-			<key>x</key>
-			<string>0.6</string>
-			<key>gravityScale</key>
-			<integer>2</integer>
-			<key>height</key>
-			<real>0.8</real>
-			<key>delay</key>
-			<integer>1</integer>
-			<key>type</key>
-			<integer>3</integer>
-		</dict>
-		<dict>
-			<key>x</key>
-			<string>0.7</string>
-			<key>gravityScale</key>
-			<integer>2</integer>
-			<key>height</key>
-			<real>0.8</real>
-			<key>delay</key>
-			<real>1.5</real>
-			<key>type</key>
-			<integer>5</integer>
-		</dict>
 	</array>
 </dict>
 </plist>
